@@ -1,0 +1,11 @@
+C:\Users\vane\source\repos\DI_T3\DI_T3\bin\Debug\netcoreapp2.1\DI_T3.deps.json
+C:\Users\vane\source\repos\DI_T3\DI_T3\bin\Debug\netcoreapp2.1\DI_T3.runtimeconfig.json
+C:\Users\vane\source\repos\DI_T3\DI_T3\bin\Debug\netcoreapp2.1\DI_T3.runtimeconfig.dev.json
+C:\Users\vane\source\repos\DI_T3\DI_T3\bin\Debug\netcoreapp2.1\DI_T3.dll
+C:\Users\vane\source\repos\DI_T3\DI_T3\bin\Debug\netcoreapp2.1\DI_T3.pdb
+C:\Users\vane\source\repos\DI_T3\DI_T3\obj\Debug\netcoreapp2.1\DI_T3.csprojAssemblyReference.cache
+C:\Users\vane\source\repos\DI_T3\DI_T3\obj\Debug\netcoreapp2.1\DI_T3.csproj.CoreCompileInputs.cache
+C:\Users\vane\source\repos\DI_T3\DI_T3\obj\Debug\netcoreapp2.1\DI_T3.AssemblyInfoInputs.cache
+C:\Users\vane\source\repos\DI_T3\DI_T3\obj\Debug\netcoreapp2.1\DI_T3.AssemblyInfo.cs
+C:\Users\vane\source\repos\DI_T3\DI_T3\obj\Debug\netcoreapp2.1\DI_T3.dll
+C:\Users\vane\source\repos\DI_T3\DI_T3\obj\Debug\netcoreapp2.1\DI_T3.pdb
